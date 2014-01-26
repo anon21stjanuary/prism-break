@@ -2158,7 +2158,7 @@
     "description": "Image hosting with in-browser AES-256 encryption.",
     "license_url": "https://github.com/imgbi/img.bi/blob/master/LICENSE",
     "logo": "imgbi.png",
-    "notes": "The img.bi service is also available on Tor: [http://imgbifwwqoixh7te.onion/](http://imgbifwwqoixh7te.onion/).\n\nAnd I2P as an [eepsite](http://imgbi.i2p/?i2paddresshelper=HlMhQ2p~WB9WiehsAa2IDfndqXTMTOeYfOIxpeQH5hSeXLxtwUhd9FsaYmXM-hq66jRREcTpBqNmbILwQsInuBnQ7PZTgLel4tdKMrKhUlxDout4eZ6uRRN6QMWX9YzDCV0cmLBWHRcZlFaBirs3RbF5neUXgdnNqgcvdanQEt5-XN05I5JrIe~Dld9vQ1Z0WSn10BcOtXDm7uxnaHqJUbhtfOgmFoGAxF~di220GpRCzDP6Eg9NRIwAGGFxH8Y7PEOmlqiUCOn5aHwxk2msqrFLzBy6aVWq-e8etrhDxckPvJby7G13QCmVCO-cOOYOObP6bk51t99t5DNxIsGEuoEaUHyVNqAf9jvMjAcqpt6Gdk8slcV528rnSXJ6Vu2gcYYnb~kmt7wtvgm46xTE0OXxdDAmbtsRu~U6oSxRROkw02Q7hdnMmiF86dTYxx-dQ6H8aPQJV1SM5cNlv3XfqBl-V0-TounGNPcj4279s4DUs7-FfhuKYJjbZj5KOlPNAAAA)",
+    "notes": "Le service img.bi est aussi disponible sur Tor : [http://imgbifwwqoixh7te.onion/](http://imgbifwwqoixh7te.onion/).\n\nEt I2P en tant que [site I2P (<q lang=\"en\">eepsite</q>)](http://imgbi.i2p/?i2paddresshelper=HlMhQ2p~WB9WiehsAa2IDfndqXTMTOeYfOIxpeQH5hSeXLxtwUhd9FsaYmXM-hq66jRREcTpBqNmbILwQsInuBnQ7PZTgLel4tdKMrKhUlxDout4eZ6uRRN6QMWX9YzDCV0cmLBWHRcZlFaBirs3RbF5neUXgdnNqgcvdanQEt5-XN05I5JrIe~Dld9vQ1Z0WSn10BcOtXDm7uxnaHqJUbhtfOgmFoGAxF~di220GpRCzDP6Eg9NRIwAGGFxH8Y7PEOmlqiUCOn5aHwxk2msqrFLzBy6aVWq-e8etrhDxckPvJby7G13QCmVCO-cOOYOObP6bk51t99t5DNxIsGEuoEaUHyVNqAf9jvMjAcqpt6Gdk8slcV528rnSXJ6Vu2gcYYnb~kmt7wtvgm46xTE0OXxdDAmbtsRu~U6oSxRROkw02Q7hdnMmiF86dTYxx-dQ6H8aPQJV1SM5cNlv3XfqBl-V0-TounGNPcj4279s4DUs7-FfhuKYJjbZj5KOlPNAAAA)",
     "privacy_url": "https://img.bi/",
     "source_url": "https://github.com/imgbi",
     "name": "img.bi",
@@ -2231,7 +2231,7 @@
     "slug": "iredmail"
   },
   {
-    "description": "Ixquick is a metasearch engine based in New York and the Netherlands. ",
+    "description": "Ixquick est un moteur de métarecherche basé à New York et aux Netherlands. ",
     "license_url": "",
     "logo": "ixquick.png",
     "notes": "",
@@ -2297,7 +2297,7 @@
     "slug": "jitsi"
   },
   {
-    "description": "Live CD/USB basé sur Debian avec des outils préconfigurés pour le surf anonyme et plus.",
+    "description": "CD autonome/clé USB autonome basé(e) sur Debian avec des outils préconfigurés pour la navigation anonyme et plus.",
     "license_url": "https://anonymous-proxy-servers.net/en/help/credits.html",
     "logo": "jondonym.png",
     "notes": "",
@@ -2386,7 +2386,7 @@
     "slug": "jondofox"
   },
   {
-    "description": "Application email libre pour Android avec support PGP.",
+    "description": "Application email libre pour Android, compatible P.G.P.",
     "license_url": "https://github.com/k9mail/k-9/blob/master/NOTICE",
     "logo": "k9-mail.png",
     "notes": "",
@@ -2835,7 +2835,7 @@
     "description": "Média d'hébergement privé et rapide (image, audio, vidéo)",
     "license_url": "https://github.com/MediaCrush/MediaCrush/blob/master/LICENSE",
     "logo": "mediacrush.png",
-    "notes": "Warning: MediaCrush includes Google Analytics and Google Adsense if you do not have Do Not Track enabled.",
+    "notes": "Avertissement: MediaCrush inclue Google Analytics et Google Adsense si vous n'avez pas activé Do Not Track.",
     "privacy_url": "https://mediacru.sh/serious",
     "source_url": "https://github.com/MediaCrush/MediaCrush",
     "name": "MediaCrush",
@@ -2865,7 +2865,7 @@
     "description": "Plate-forme décentralisée de publication média.",
     "license_url": "https://gitorious.org/mediagoblin/mediagoblin/source/a442823bc1d8bc4946749a036a5460ceea456a9b:COPYING",
     "logo": "mediagoblin.png",
-    "notes": "MediaGoblin does not encrypt any of your data by default.",
+    "notes": "MediaGoblin ne chiffre par défaut aucune de vos données.",
     "privacy_url": "",
     "source_url": "https://gitorious.org/mediagoblin/mediagoblin",
     "name": "MediaGoblin",
@@ -2968,7 +2968,7 @@
     "description": "Navigateur web libre.",
     "license_url": "https://www.mozilla.org/MPL/",
     "logo": "mozilla-firefox.png",
-    "notes": "Firefox does not hide your IP address from third-parties by default. If you want to anonymize your IP, consider using Tor Browser Bundle instead.\n\nFirefox sends searches through Google by default. Consider changing it to DuckDuckGo or Startpage for anonymous web searches.\n\nConsidering unchecking \"Block reported attack sites\" and \"Block reported web forgeries\" in Tools -> Options -> Security (Windows & GNU/Linux) or Preferences -> Security (OS X) if you don't want Mozilla to send reported URL hashes to Google.",
+    "notes": "Par défaut, Firefox ne cache pas votre adresse IP aux tierces parties. Si vous voulez anonymiser votre IP, envisagez d'utiliser le Tor Browser Bundle à la place.\n\nFirefox envoie par défaut les recherches à Google. Réfléchissez à changer cela pour DuckDuckGo ou Startpage, pour réaliser des recherches Web anonymes.\n\nPensez à décocher \"Block reported attack sites\" et \"Block reported web forgeries\" dans Outils -> Options -> Securité (Windows & GNU/Linux) oo Préférences -> Securité (OS X) si vous ne voulez pas que Mozilla envoie à Google les condensats (empreintes cryptograpiques) d'adresses web signalées.",
     "privacy_url": "https://www.mozilla.org/en-US/privacy/policies/websites/",
     "source_url": "https://developer.mozilla.org/en-US/docs/Viewing_and_searching_Mozilla_source_code_online",
     "name": "Mozilla Firefox",
